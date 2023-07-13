@@ -1,5 +1,5 @@
 # Hello
-This is a simple snake game I made in using purely html, css and javascript. 
+This is a simple snake game I made using purely html, css and javascript. 
 It's another simple project for me to practice programming.
 It has its bugs and faults, and there definitely is room for improvement.
 
